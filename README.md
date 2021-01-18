@@ -20,6 +20,6 @@ This is a tool created using Python and the XlsxWriter library that allows users
 
 ## Installing XlsxWriter Using PIP
 Go to command prompt and paste the following code:
-'''
+```
 pip install XlsxWriter
-'''
+```
