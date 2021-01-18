@@ -8,4 +8,11 @@ This is a tool created using Python 3 and th XlsxWriter library that allows user
 
 ## Features
 
-- 
+- Add, delete, or change name of criteria
+- Add, delete, or change weight of criteria
+- Add, delete, or change name of concept/potential solution
+- Input, delete, or change raw scores
+- Add justifications for inputting the specific weight of a criteria or a raw score for a concept
+- Compute raw scores
+- Check for robustness
+- Display information
