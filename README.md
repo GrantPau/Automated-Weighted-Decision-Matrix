@@ -24,3 +24,5 @@ Go to command prompt and paste the following code:
 ```
 pip install XlsxWriter
 ```
+
+Click [here](https://pip.pypa.io/en/stable/installing/) for info on installing PIP
